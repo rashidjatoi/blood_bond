@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1000584702350",
+    "firebase_url": "https://bloodbank-393b6-default-rtdb.firebaseio.com",
+    "project_id": "bloodbank-393b6",
+    "storage_bucket": "bloodbank-393b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000584702350:android:71be4958006f090e699cdf",
+        "android_client_info": {
+          "package_name": "com.blood.bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg88hVuikV7GB6Y2p7-WA5jx-kOz8agqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000584702350:android:ca1db51a25a01828699cdf",
+        "android_client_info": {
+          "package_name": "com.blood.donation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg88hVuikV7GB6Y2p7-WA5jx-kOz8agqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000584702350:android:4569b40b154af2a7699cdf",
+        "android_client_info": {
+          "package_name": "com.example.blood_donation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBg88hVuikV7GB6Y2p7-WA5jx-kOz8agqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
